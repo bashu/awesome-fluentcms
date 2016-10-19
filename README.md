@@ -11,13 +11,15 @@ A curated list of awesome Fluent CMS apps, projects and resources. Inspired by a
 
 ## Content Plugins
 
-* [fluentcms-forms-builder](https://github.com/bashu/fluentcms-forms-builder) - build custom forms!
-* [fluentcms-teaser](https://github.com/bashu/fluentcms-teaser) - announcement blocks with a "read more" link.
-* [fluentcms-twitterfeed](https://github.com/bashu/fluentcms-twitterfeed) - Twitter feeds
-* [fluentcms-filer](https://github.com/bashu/fluentcms-filer) - support the django-filer media library.
+* [fluentcms-campaign](https://github.com/bashu/fluentcms-campaign) - Newsletter campaign integration.
 * [fluentcms-file](https://github.com/bashu/fluentcms-file) - provide file download links.
+* [fluentcms-filer](https://github.com/bashu/fluentcms-filer) - support the django-filer media library.
+* [fluentcms-forms-builder](https://github.com/bashu/fluentcms-forms-builder) - build custom forms!
 * [fluentcms-jumbotron](https://github.com/edoburu/fluentcms-jumbotron) - a Bootstrap 3 jumbotron (large splash display)
 * [fluentcms-pager](https://github.com/edoburu/fluentcms-pager) - a Bootstrap 3 pager for previous/next buttons.
+* [fluentcms-teaser](https://github.com/bashu/fluentcms-teaser) - announcement blocks with a "read more" link.
+* [fluentcms-twitterfeed](https://github.com/bashu/fluentcms-twitterfeed) - Twitter feeds
+
 # Projects
 
 # Resources
