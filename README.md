@@ -2,6 +2,18 @@
 
 A curated list of awesome Fluent CMS apps, projects and resources. Inspired by and based on [awesome-django](https://gitlab.com/rosarior/awesome-django/).
 
+- [Awesome Fluent CMS](#awesome-fluentcms)
+- [Projects](#projects)
+- [Resources](#resources)
+- [Community](#community)
+- [Contributing](#contributing)
+
+# Projects
+
+# Resources
+
+# Community
+
 # Contributing
 
 Just fork and send a pull request with your awesome Fluent CMS apps, projects or resources.
