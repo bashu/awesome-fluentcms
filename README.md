@@ -16,6 +16,7 @@ A curated list of awesome Fluent CMS apps, projects and resources. Inspired by a
 * [fluentcms-twitterfeed](https://github.com/bashu/fluentcms-twitterfeed) - Twitter feeds
 * [fluentcms-filer](https://github.com/bashu/fluentcms-filer) - support the django-filer media library.
 * [fluentcms-file](https://github.com/bashu/fluentcms-file) - provide file download links.
+* [fluentcms-jumbotron](https://github.com/edoburu/fluentcms-jumbotron) - a Bootstrap 3 jumbotron (large splash display)
 # Projects
 
 # Resources
