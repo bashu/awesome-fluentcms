@@ -13,6 +13,7 @@ A curated list of awesome Fluent CMS apps, projects and resources. Inspired by a
 
 * [fluentcms-forms-builder](https://github.com/bashu/fluentcms-forms-builder) - build custom forms!
 * [fluentcms-teaser](https://github.com/bashu/fluentcms-teaser) - announcement blocks with a "read more" link.
+* [fluentcms-twitterfeed](https://github.com/bashu/fluentcms-twitterfeed) - Twitter feeds
 # Projects
 
 # Resources
