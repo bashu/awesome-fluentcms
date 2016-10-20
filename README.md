@@ -16,6 +16,7 @@ A curated list of awesome Fluent CMS add-ons, projects and resources. Inspired b
 * [fluentcms-filer](https://github.com/bashu/fluentcms-filer) - support the django-filer media library.
 * [fluentcms-forms-builder](https://github.com/bashu/fluentcms-forms-builder) - build custom forms!
 * [fluentcms-jumbotron](https://github.com/edoburu/fluentcms-jumbotron) - a Bootstrap 3 jumbotron (large splash display)
+* [fluentcms-link](https://github.com/bashu/fluentcms-link) - add a link to an other page or to an external website.
 * [fluentcms-pager](https://github.com/edoburu/fluentcms-pager) - a Bootstrap 3 pager for previous/next buttons.
 * [fluentcms-teaser](https://github.com/bashu/fluentcms-teaser) - announcement blocks with a "read more" link.
 * [fluentcms-twitterfeed](https://github.com/bashu/fluentcms-twitterfeed) - Twitter feeds
