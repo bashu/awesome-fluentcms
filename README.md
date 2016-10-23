@@ -13,7 +13,8 @@ A curated list of awesome Fluent CMS add-ons, projects and resources. Inspired b
 
 * [fluentcms-campaign](https://github.com/bashu/fluentcms-campaign) - Newsletter campaign integration.
 * [fluentcms-contactform](https://github.com/edoburu/fluentcms-contactform) - simple contact form.
-* [fluentcms-countdown](https://github.com/edoburu/fluentcms-countdown) - show a countdown timer on a website
+* [fluentcms-countdown](https://github.com/edoburu/fluentcms-countdown) - show a countdown timer on a website.
+* [fluentcms-cookielaw](https://github.com/edoburu/fluentcms-cookielaw) - show a cookie notification on a website.
 * [fluentcms-file](https://github.com/bashu/fluentcms-file) - provide file download links.
 * [fluentcms-filer](https://github.com/bashu/fluentcms-filer) - support the django-filer media library.
 * [fluentcms-forms-builder](https://github.com/bashu/fluentcms-forms-builder) - build custom forms!
