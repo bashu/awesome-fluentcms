@@ -12,6 +12,7 @@ A curated list of awesome Fluent CMS add-ons, projects and resources. Inspired b
 ## Content Plugins
 
 * [fluentcms-campaign](https://github.com/bashu/fluentcms-campaign) - Newsletter campaign integration.
+* [fluentcms-contactform](https://github.com/edoburu/fluentcms-contactform) - simple contact form.
 * [fluentcms-file](https://github.com/bashu/fluentcms-file) - provide file download links.
 * [fluentcms-filer](https://github.com/bashu/fluentcms-filer) - support the django-filer media library.
 * [fluentcms-forms-builder](https://github.com/bashu/fluentcms-forms-builder) - build custom forms!
